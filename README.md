@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![image](https://github.com/kitten404/roll-a-dice/assets/31549957/a575c9bc-8cc2-44f4-82ca-d78629863ca5)
 
 In the project directory, you can run:
 
